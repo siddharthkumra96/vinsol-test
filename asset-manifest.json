@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vinsol-quiz/static/css/main.b100e6da.chunk.css",
+    "main.js": "/vinsol-quiz/static/js/main.ff46a64f.chunk.js",
+    "main.js.map": "/vinsol-quiz/static/js/main.ff46a64f.chunk.js.map",
+    "runtime-main.js": "/vinsol-quiz/static/js/runtime-main.b3ad5350.js",
+    "runtime-main.js.map": "/vinsol-quiz/static/js/runtime-main.b3ad5350.js.map",
+    "static/js/2.61e73b92.chunk.js": "/vinsol-quiz/static/js/2.61e73b92.chunk.js",
+    "static/js/2.61e73b92.chunk.js.map": "/vinsol-quiz/static/js/2.61e73b92.chunk.js.map",
+    "index.html": "/vinsol-quiz/index.html",
+    "precache-manifest.df6e3174927e815fe9d94b95c3ed2ba3.js": "/vinsol-quiz/precache-manifest.df6e3174927e815fe9d94b95c3ed2ba3.js",
+    "service-worker.js": "/vinsol-quiz/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/vinsol-quiz/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/vinsol-quiz/static/media/logo.25bf045c.svg"
+  }
+}
