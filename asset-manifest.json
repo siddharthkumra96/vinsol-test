@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vinsol-quiz/static/css/main.b100e6da.chunk.css",
-    "main.js": "/vinsol-quiz/static/js/main.ff46a64f.chunk.js",
-    "main.js.map": "/vinsol-quiz/static/js/main.ff46a64f.chunk.js.map",
-    "runtime-main.js": "/vinsol-quiz/static/js/runtime-main.b3ad5350.js",
-    "runtime-main.js.map": "/vinsol-quiz/static/js/runtime-main.b3ad5350.js.map",
-    "static/js/2.61e73b92.chunk.js": "/vinsol-quiz/static/js/2.61e73b92.chunk.js",
-    "static/js/2.61e73b92.chunk.js.map": "/vinsol-quiz/static/js/2.61e73b92.chunk.js.map",
-    "index.html": "/vinsol-quiz/index.html",
-    "precache-manifest.df6e3174927e815fe9d94b95c3ed2ba3.js": "/vinsol-quiz/precache-manifest.df6e3174927e815fe9d94b95c3ed2ba3.js",
-    "service-worker.js": "/vinsol-quiz/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/vinsol-quiz/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/vinsol-quiz/static/media/logo.25bf045c.svg"
+    "main.css": "/vinsol-test/static/css/main.b100e6da.chunk.css",
+    "main.js": "/vinsol-test/static/js/main.b07094c1.chunk.js",
+    "main.js.map": "/vinsol-test/static/js/main.b07094c1.chunk.js.map",
+    "runtime-main.js": "/vinsol-test/static/js/runtime-main.9eaba7be.js",
+    "runtime-main.js.map": "/vinsol-test/static/js/runtime-main.9eaba7be.js.map",
+    "static/js/2.7f402ead.chunk.js": "/vinsol-test/static/js/2.7f402ead.chunk.js",
+    "static/js/2.7f402ead.chunk.js.map": "/vinsol-test/static/js/2.7f402ead.chunk.js.map",
+    "index.html": "/vinsol-test/index.html",
+    "precache-manifest.1f07b2c76c1b94a6097fbfbd87e0daec.js": "/vinsol-test/precache-manifest.1f07b2c76c1b94a6097fbfbd87e0daec.js",
+    "service-worker.js": "/vinsol-test/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/vinsol-test/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/vinsol-test/static/media/logo.25bf045c.svg"
   }
 }
